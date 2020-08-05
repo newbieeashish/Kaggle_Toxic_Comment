@@ -24,6 +24,8 @@
 
 6.identity_hate
 
+#### Link for dataset can be found here: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
+
 
 ##### Used Bi-Directional LSTM for this challenege
 
